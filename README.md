@@ -2,6 +2,7 @@
 # AR Business Card
 
 ![AR Business Card](/targetImage.jpeg) 
+![](/businessCard.png) 
 
 **AR Business Card** is an augmented reality project that brings a unique, interactive approach to traditional business cards. By scanning the AR markers on the card, users can access additional multimedia information such as contact details, social media links, and portfolio highlights.
 
