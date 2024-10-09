@@ -32,9 +32,9 @@
 ### Installation
 
 1. Clone the repository:
-   \`\`\`bash
+   ```bash
    git clone https://github.com/shivaay0898/ARBusinessCard.git
-   \`\`\`
+   ```
 2. Open the project in Unity.
 
 3. Configure the **Vuforia** settings by going to `Window > Vuforia Configuration` and inputting your **Vuforia Developer Key**.
@@ -53,7 +53,7 @@
 
 ## Contributing
 
-Feel free to fork this repository and submit pull requests. We welcome contributions to improve features or add new functionalities!
+Feel free to fork this repository and submit pull requests. I welcome your precious contributions to improve features or add new functionalities!
 
 ## Contact
 
